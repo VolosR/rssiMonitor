@@ -1,0 +1,16 @@
+{
+  "codename": "mid",
+  "ttf_path": "\\assets\\Kenyan Coffee Rg.otf",
+  "bin_path": "\\assets\\ui_font_mid.bin",
+  "c_path": "\\assets\\ui_font_mid.c",
+  "cfg_path": "\\assets\\ui_font_mid.fcfg",
+  "size": 50,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
