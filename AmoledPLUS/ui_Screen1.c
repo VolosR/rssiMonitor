@@ -170,7 +170,7 @@ void ui_Screen1_screen_init(void)
     lv_obj_set_x(ui_Label10, -12);
     lv_obj_set_y(ui_Label10, 38);
     lv_obj_set_align(ui_Label10, LV_ALIGN_CENTER);
-    lv_label_set_text(ui_Label10, "BEST\nGOOD\nFAIR\nWEEK\nPOOR\nBAD");
+    lv_label_set_text(ui_Label10, "BEST\nGOOD\nFAIR\nWEAK\nPOOR\nBAD");
     lv_obj_set_style_text_color(ui_Label10, lv_color_hex(0x68819A), LV_PART_MAIN | LV_STATE_DEFAULT);
     lv_obj_set_style_text_opa(ui_Label10, 255, LV_PART_MAIN | LV_STATE_DEFAULT);
     lv_obj_set_style_text_font(ui_Label10, &ui_font_MINI, LV_PART_MAIN | LV_STATE_DEFAULT);
